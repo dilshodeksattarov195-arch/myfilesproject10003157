@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterprocess",
+        "uuid": 16097543,
+        "checksum": "360ipk"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
